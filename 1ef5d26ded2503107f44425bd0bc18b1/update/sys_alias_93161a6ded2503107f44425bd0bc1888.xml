@@ -2,24 +2,24 @@
     <sys_alias action="INSERT_OR_UPDATE">
         <configuration_template/>
         <connection_type>http_connection</connection_type>
-        <id>x_cdltd_cicd_dem_0.CICD_Demo_App</id>
+        <id>x_cdltd_cicd_dem_0.CICD_Demo_App1</id>
         <is_internal>false</is_internal>
         <multiple_connections>false</multiple_connections>
-        <name>CICD Demo App</name>
+        <name>CICD Demo App1</name>
         <parent/>
         <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
         <sys_class_name>sys_alias</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-06-18 05:33:29</sys_created_on>
         <sys_id>93161a6ded2503107f44425bd0bc1888</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_cdltd_cicd_dem_0.CICD_Demo_App</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_cdltd_cicd_dem_0.CICD_Demo_App1</sys_name>
         <sys_package display_value="CICD Demo App" source="x_cdltd_cicd_dem_0">1ef5d26ded2503107f44425bd0bc18b1</sys_package>
         <sys_policy/>
         <sys_scope display_value="CICD Demo App">1ef5d26ded2503107f44425bd0bc18b1</sys_scope>
         <sys_update_name>sys_alias_93161a6ded2503107f44425bd0bc1888</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-18 05:33:29</sys_updated_on>
+        <sys_updated_on>2026-06-18 06:02:07</sys_updated_on>
         <type>connection</type>
     </sys_alias>
 </record_update>
